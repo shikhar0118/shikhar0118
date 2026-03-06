@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Shikhar Dhangar
+<h1 algin = center>💫 Hi 👋, I'm Shikhar Dhangar<h1></h1>
 **A passionate MERN Stack Developer || Coding Enthusiast**
 
 Email Me 👉 ✉️ **shikhardhangar0118@gmail.com** 😊😊
