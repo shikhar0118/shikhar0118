@@ -1,3 +1,4 @@
+![logo](banner.png)
 <h1 align = center>💫 Hi 👋, I'm Shikhar Dhangar</h1>
 <h3 align = center>A passionate MERN Stack Developer || Coding Enthusias</h3>
 
