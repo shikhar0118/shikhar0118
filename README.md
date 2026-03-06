@@ -1,5 +1,5 @@
 <h1 align = center>💫 Hi 👋, I'm Shikhar Dhangar</h1>
-**A passionate MERN Stack Developer || Coding Enthusiast**
+<h1 align = center>A passionate MERN Stack Developer || Coding Enthusias</h1>t**
 
 Email Me 👉 ✉️ **shikhardhangar0118@gmail.com** 😊😊
 
